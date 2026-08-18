@@ -1,3 +1,3 @@
-# 📋 Listas de Exercícios de fixação 1
+# 📋 Listas de Exercícios
 
 Exercícios propostos pelo professor Dacio.
