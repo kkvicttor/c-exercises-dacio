@@ -12,6 +12,7 @@ Professor: Dacio Machado
 | Seção | Descrição |
 |---|---|
 | 📋 Listas | Listas de exercícios propostos |
+| 📝 Exercícios | Exercícios avulsos diários em sala |
 | 📝 Atividades | Atividades e trabalhos realizados |
 
 ---
